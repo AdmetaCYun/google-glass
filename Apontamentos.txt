@@ -14,3 +14,15 @@
  #Formatação de texto em html#
 <figure/> = nova tag para imagens 
 <figcaption/> = dar legenda a imagem , titulos 
+<ol/> = listas ordenadas
+  type: 1 ordenado numericamente
+  type: a ordenada por letras 
+  type: A ordenado por letras maiusculas
+  type: i ordenado por numeros romanos
+  type: I numeros romanos maiusculos 
+  start: 1,2,3... (parametro) define em que numero ou letra começa a lista 
+<ul/> = lista não ordenada usa apenas simbulos ou nada ao lado da lista
+  type: square os simbulos são transformados em quadrados 
+  type: circle transforme em bolos
+  type: disc pequenos ciculos com fundos pretos 
+<li/> = itens de uma lista 
