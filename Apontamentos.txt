@@ -1,0 +1,16 @@
+<br/> = Quebra de linha
+&nbsp; = Espaço em branco 
+<wbr/> = Quebra de palavras
+&shy; = Quebra de palavras com hifens 
+                        lista de Simbulos HTML5
+(https://www.toptal.com/designers/htmlarrows/symbols/)
+ #Formatação de texto em html#
+<b/> = Negrito
+<i/> = italico simplesmente letra inclinada
+<em/> = inclina a letra e da prioridade 
+<del/> = Texto riscado, deletado 
+<code/> = Especifico para digitar codigos no navegador
+<pre/>  = Faz o navegador considerar os espaços sem ter que usar os codigos de quebra de linha 
+ #Formatação de texto em html#
+<figure/> = nova tag para imagens 
+<figcaption/> = dar legenda a imagem , titulos 
